@@ -1,0 +1,96 @@
+2020-10-12T12:53:03-0400 [INFO    ] dandi Traversing remote dandisets (000019) recursively
+2020-10-12T12:53:03-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-12T12:53:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B1.nwb
+2020-10-12T12:53:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:05-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B105.nwb
+2020-10-12T12:53:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:06-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B15.nwb
+2020-10-12T12:53:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:06-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B76.nwb
+2020-10-12T12:53:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:06-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B8.nwb
+2020-10-12T12:53:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:07-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B89.nwb
+2020-10-12T12:53:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:07-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC2/sub-EC2_ses-EC2-B9.nwb
+2020-10-12T12:53:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:07-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B15.nwb
+2020-10-12T12:53:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:08-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B39.nwb
+2020-10-12T12:53:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:08-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B46.nwb
+2020-10-12T12:53:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:08-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B49.nwb
+2020-10-12T12:53:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B53.nwb
+2020-10-12T12:53:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B60.nwb
+2020-10-12T12:53:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-EC9/sub-EC9_ses-EC9-B63.nwb
+2020-10-12T12:53:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:10-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B1.nwb
+2020-10-12T12:53:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:10-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B2.nwb
+2020-10-12T12:53:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:10-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B21.nwb
+2020-10-12T12:53:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:11-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B4.nwb
+2020-10-12T12:53:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:11-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B6.nwb
+2020-10-12T12:53:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:11-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B63.nwb
+2020-10-12T12:53:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:12-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B65.nwb
+2020-10-12T12:53:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:12-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B67.nwb
+2020-10-12T12:53:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B69.nwb
+2020-10-12T12:53:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B71.nwb
+2020-10-12T12:53:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B78.nwb
+2020-10-12T12:53:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B82.nwb
+2020-10-12T12:53:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:14-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B83.nwb
+2020-10-12T12:53:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:14-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP31/sub-GP31_ses-GP31-B9.nwb
+2020-10-12T12:53:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:14-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP33/sub-GP33_ses-GP33-B1.nwb
+2020-10-12T12:53:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:15-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP33/sub-GP33_ses-GP33-B30.nwb
+2020-10-12T12:53:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:15-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-GP33/sub-GP33_ses-GP33-B5.nwb
+2020-10-12T12:53:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-12T12:53:15-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-12T12:53:15-0400 [INFO    ] backups2datalad.py Commiting changes
